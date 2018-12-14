@@ -1,0 +1,9 @@
+variable "project" {}
+variable "ami" {}
+variable "instance_type" {}
+variable "public_sn_id" {}
+variable "private_sn_id" {}
+variable "AZ" {}
+variable "public_sg" {}
+variable "private_sg" {}
+variable "key_name" {}
